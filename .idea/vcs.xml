@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-ansi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-shellscripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roboshop-terraform" vcs="Git" />
   </component>
 </project>
