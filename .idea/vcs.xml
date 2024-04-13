@@ -2,20 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/learn-shell" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/learn-terraform" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-ansi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-aws-parameters" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-shellscripts" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-terraform" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-alb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-basic-test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-docdb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-elasticache" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-rabbitmq" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-rds" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf-module-vpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roboshop-shellscript" vcs="Git" />
   </component>
 </project>
