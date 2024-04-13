@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="shellscript">
-      <change afterPath="$PROJECT_DIR$/roboshop-shellscript/common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/catalogue.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/user.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/user.sh" afterDir="false" />
-    </list>
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="shellscript" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1713024228666</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713024501237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713024501237</updated>
+    </task>
+    <task id="LOCAL-00015" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713024705846</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713024705846</updated>
+    </task>
+    <task id="LOCAL-00016" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713025489435</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713025489435</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
