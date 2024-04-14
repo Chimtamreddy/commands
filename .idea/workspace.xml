@@ -4,14 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="shellscript" />
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="Ansible">
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/app-preq.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/cart.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/cart.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/catalogue.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/catalogue.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/frontend.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/java.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongo-schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongo.repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongodb.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql-schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql.repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/nginx-roboshop.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/nodejs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/payment.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/payment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/python.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/rabbitmq.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/redis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/shipping.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/shipping.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/systemd-setup.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/user.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/user.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/frontend.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/mysql.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/mysql.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/payment.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/payment.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/payment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/payment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/rabbitmq.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/rabbitmq.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/user.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/user.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-shellscript" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-ansib" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -24,14 +59,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/d74&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/d74/roboshop-ansib"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\d74\roboshop-ansib" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -185,11 +226,68 @@
       <option name="project" value="LOCAL" />
       <updated>1713026010527</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713026727711</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713026727711</updated>
+    </task>
+    <task id="LOCAL-00020" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027044541</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027044541</updated>
+    </task>
+    <task id="LOCAL-00021" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027186667</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027186667</updated>
+    </task>
+    <task id="LOCAL-00022" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027434428</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027434428</updated>
+    </task>
+    <task id="LOCAL-00023" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027673569</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027673569</updated>
+    </task>
+    <task id="LOCAL-00024" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027693529</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027693529</updated>
+    </task>
+    <task id="LOCAL-00025" summary="shellscript">
+      <option name="closed" value="true" />
+      <created>1713027959074</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027959074</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shellscript" />
-    <option name="LAST_COMMIT_MESSAGE" value="shellscript" />
+    <MESSAGE value="Ansible" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ansible" />
   </component>
 </project>
