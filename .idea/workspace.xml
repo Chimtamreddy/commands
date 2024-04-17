@@ -5,40 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="Ansible">
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/app-preq.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/cart.service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/cart.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/catalogue.service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/catalogue.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/frontend.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/java.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongo-schema.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongo.repo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mongodb.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql-schema.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql.repo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/mysql.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/nginx-roboshop.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/nodejs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/payment.service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/payment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/python.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/rabbitmq.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/redis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/shipping.service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/shipping.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/systemd-setup.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/user.service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/vars/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/vars/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mongodb/files/mongo.repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mongodb/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mysql/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/vars/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/rabbitmq/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/redis/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/vars/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/vars/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/frontend.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/mysql.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/mysql.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/payment.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/payment.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/payment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/payment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/rabbitmq.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/rabbitmq.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shellscript/user.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shellscript/user.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/app-preq.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/app-preq.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/cart.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/files/cart.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/cart.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/catalogue.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/files/catalogue.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/catalogue.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/frontend.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/java.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/java.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongo-schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/mongo-schema.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongo.repo" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/files/mongo.repo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongodb.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql-schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/mysql-schema.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql.repo" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mysql/files/mysql.repo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/nginx-roboshop.conf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/files/nginx-roboshop.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/nodejs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/nodejs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/payment.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/files/payment.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/payment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/python.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/python.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/rabbitmq.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/redis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/shipping.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/files/shipping.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/shipping.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/systemd-setup.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/systemd-setup.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/user.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/files/user.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/user.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +75,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/d74/roboshop-ansib"
+    "last_opened_file_path": "C:/d74/roboshop-ansib/common"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\d74\roboshop-ansib" />
+      <recent name="C:\d74\roboshop-ansib\common" />
+      <recent name="C:\d74\roboshop-ansib\common\tasks" />
+      <recent name="C:\d74\roboshop-ansib\user" />
+      <recent name="C:\d74\roboshop-ansib\shipping" />
+      <recent name="C:\d74\roboshop-ansib\redis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\d74\roboshop-ansib\roles" />
+      <recent name="C:\d74\roboshop-ansib\shipping\files" />
+      <recent name="C:\d74\roboshop-ansib\payment\files" />
+      <recent name="C:\d74\roboshop-ansib\mysql\files" />
+      <recent name="C:\d74\roboshop-ansib\cart\files" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -282,7 +303,199 @@
       <option name="project" value="LOCAL" />
       <updated>1713027959074</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713102787672</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1713102787672</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713103111191</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1713103111191</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713103253372</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713103253372</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713103369641</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1713103369641</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713103477688</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1713103477688</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713103592040</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1713103592040</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713104130377</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1713104130377</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713104920597</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1713104920597</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105209617</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105209617</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105410044</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105410044</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105549003</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105549003</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105676382</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105676382</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105875424</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105875424</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105930284</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105930284</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713105983793</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105983793</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106149125</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106149125</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106225901</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106225901</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106430996</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106430996</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106485883</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106485883</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106539422</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106539422</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106607044</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106607044</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106663803</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106663803</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713106720885</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106720887</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713283945965</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1713283945965</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
