@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform" />
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
+      <change afterPath="$PROJECT_DIR$/roboshop-terraform/state.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/main.tf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,14 +60,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00010" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713023861528</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1713023861528</updated>
     </task>
     <task id="LOCAL-00011" summary="shellscript">
       <option name="closed" value="true" />
@@ -450,7 +445,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713359193336</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713359311346</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1713359311346</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
