@@ -58,22 +58,6 @@
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
     </task>
-    <task id="LOCAL-00002" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713021237190</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1713021237190</updated>
-    </task>
-    <task id="LOCAL-00003" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713022341876</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1713022341876</updated>
-    </task>
     <task id="LOCAL-00004" summary="shellscript">
       <option name="closed" value="true" />
       <created>1713022484305</created>
@@ -450,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713353497594</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713354013403</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1713354013403</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713354286378</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1713354286378</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
