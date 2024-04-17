@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="Ansible">
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/vars/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/vars/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mongodb/files/mongo.repo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mongodb/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mysql/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/vars/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/rabbitmq/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/redis/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/vars/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/tasks/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/vars/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/app-preq.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/app-preq.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/cart.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/files/cart.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/cart.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/catalogue.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/files/catalogue.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/catalogue.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/frontend.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/java.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/java.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongo-schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/mongo-schema.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongo.repo" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/files/mongo.repo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mongodb.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql-schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/mysql-schema.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql.repo" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/mysql/files/mysql.repo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/mysql.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/nginx-roboshop.conf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/files/nginx-roboshop.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/nodejs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/nodejs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/payment.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/files/payment.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/payment.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/python.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/python.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/rabbitmq.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/redis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/shipping.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/files/shipping.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/shipping.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/systemd-setup.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/systemd-setup.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/user.service" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/files/user.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-ansib/user.yml" beforeDir="false" />
-    </list>
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="Ansible" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,14 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00001" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713020777282</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1713020777282</updated>
     </task>
     <task id="LOCAL-00002" summary="shellscript">
       <option name="closed" value="true" />
@@ -495,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713283945965</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Ansible">
+      <option name="closed" value="true" />
+      <created>1713353497594</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1713353497594</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
