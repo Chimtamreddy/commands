@@ -64,22 +64,6 @@
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
     </task>
-    <task id="LOCAL-00034" summary="Ansible">
-      <option name="closed" value="true" />
-      <created>1713105209617</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1713105209617</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Ansible">
-      <option name="closed" value="true" />
-      <created>1713105410044</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1713105410044</updated>
-    </task>
     <task id="LOCAL-00036" summary="Ansible">
       <option name="closed" value="true" />
       <created>1713105549003</created>
@@ -456,7 +440,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713439973848</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713440189480</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1713440189480</updated>
+    </task>
+    <task id="LOCAL-00084" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713440246937</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1713440246937</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
