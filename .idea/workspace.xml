@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform" />
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-docdb/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-docdb/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-docdb/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-docdb/vars.tf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,14 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Ansible">
-      <option name="closed" value="true" />
-      <created>1713354320257</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1713354320257</updated>
     </task>
     <task id="LOCAL-00054" summary="Ansible">
       <option name="closed" value="true" />
@@ -450,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713456029844</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713456282217</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1713456282217</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
