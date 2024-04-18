@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
-      <change beforePath="$PROJECT_DIR$/tf-module-alb/locals.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-alb/locals.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-module-alb/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-alb/main.tf" afterDir="false" />
-    </list>
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,22 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Ansible">
-      <option name="closed" value="true" />
-      <created>1713106720885</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1713106720887</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Ansible">
-      <option name="closed" value="true" />
-      <created>1713283945965</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1713283945965</updated>
     </task>
     <task id="LOCAL-00050" summary="Ansible">
       <option name="closed" value="true" />
@@ -453,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713447995120</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713448255938</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1713448255938</updated>
+    </task>
+    <task id="LOCAL-00098" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713448337934</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1713448337934</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
