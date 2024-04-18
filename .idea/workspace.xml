@@ -58,22 +58,6 @@
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
     </task>
-    <task id="LOCAL-00018" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713026010527</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1713026010527</updated>
-    </task>
-    <task id="LOCAL-00019" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713026727711</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1713026727711</updated>
-    </task>
     <task id="LOCAL-00020" summary="shellscript">
       <option name="closed" value="true" />
       <created>1713027044541</created>
@@ -450,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713435298780</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713435571226</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1713435571226</updated>
+    </task>
+    <task id="LOCAL-00068" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713435680707</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1713435680707</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
