@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tf-module-vpc" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-terraform" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -42,11 +42,11 @@
       <recent name="C:\d74\roboshop-ansib\shipping" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\d74\tf-module-vpc\subnets" />
       <recent name="C:\d74\roboshop-ansib\roles" />
       <recent name="C:\d74\roboshop-ansib\shipping\files" />
       <recent name="C:\d74\roboshop-ansib\payment\files" />
       <recent name="C:\d74\roboshop-ansib\mysql\files" />
-      <recent name="C:\d74\roboshop-ansib\cart\files" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,14 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00020" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713027044541</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1713027044541</updated>
     </task>
     <task id="LOCAL-00021" summary="shellscript">
       <option name="closed" value="true" />
@@ -450,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713435680707</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713436318963</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1713436318963</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
