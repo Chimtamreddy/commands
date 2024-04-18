@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
-      <change afterPath="$PROJECT_DIR$/tf-module-vpc/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-vpc/subnets/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-vpc/subnets/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-vpc/vars.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-terraform/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-terraform/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/vars.tf" afterDir="false" />
-    </list>
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tf-module-vpc" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-terraform" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -67,22 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00013" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713024228666</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1713024228666</updated>
-    </task>
-    <task id="LOCAL-00014" summary="shellscript">
-      <option name="closed" value="true" />
-      <created>1713024501237</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1713024501237</updated>
     </task>
     <task id="LOCAL-00015" summary="shellscript">
       <option name="closed" value="true" />
@@ -460,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713360170022</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713434413730</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1713434413730</updated>
+    </task>
+    <task id="LOCAL-00063" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713434926773</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1713434926773</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
