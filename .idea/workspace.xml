@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
-      <change afterPath="$PROJECT_DIR$/tf-module-elasticache/data.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-elasticache/locals.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-elasticache/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-module-elasticache/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-module-rabbitmq/data.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-module-rabbitmq/locals.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-module-rabbitmq/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-module-rabbitmq/userdata.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-module-rabbitmq/vars.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-terraform/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-terraform/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/vars.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +40,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/d74/tf-module-elasticache"
+    "last_opened_file_path": "C:/d74/tf-module-rabbitmq"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\d74\tf-module-rabbitmq" />
       <recent name="C:\d74\tf-module-elasticache" />
       <recent name="C:\d74\tf-module-rds" />
       <recent name="C:\d74\tf-module-docdb" />
       <recent name="C:\d74\tf-module-alb" />
-      <recent name="C:\d74\roboshop-terraform\env-prod" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\d74\tf-module-vpc\subnets" />
@@ -67,14 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00058" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713359193336</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1713359193336</updated>
     </task>
     <task id="LOCAL-00059" summary="roboshop terraform">
       <option name="closed" value="true" />
@@ -460,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713491040848</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713492374499</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1713492374499</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
