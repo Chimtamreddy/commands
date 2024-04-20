@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-ansib" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-aws-parameters" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -57,22 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00135" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713509123710</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1713509123710</updated>
-    </task>
-    <task id="LOCAL-00136" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713509470851</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1713509470851</updated>
     </task>
     <task id="LOCAL-00137" summary="roboshop terraform">
       <option name="closed" value="true" />
@@ -450,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713653265124</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713653537878</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1713653537878</updated>
+    </task>
+    <task id="LOCAL-00185" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713653683998</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1713653683998</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
