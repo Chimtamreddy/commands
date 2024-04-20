@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-app/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-app/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-app/userdata.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-app/userdata.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-rabbitmq/userdata.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-rabbitmq/userdata.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/d74/tf-module-app"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/d74/tf-module-app&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\d74\tf-module-app" />
@@ -59,62 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00093" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713447408651</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1713447408651</updated>
-    </task>
-    <task id="LOCAL-00094" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713447480804</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1713447480804</updated>
-    </task>
-    <task id="LOCAL-00095" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713447703393</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1713447703393</updated>
-    </task>
-    <task id="LOCAL-00096" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713447995120</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1713447995120</updated>
-    </task>
-    <task id="LOCAL-00097" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713448255938</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1713448255938</updated>
-    </task>
-    <task id="LOCAL-00098" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713448337934</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1713448337934</updated>
-    </task>
-    <task id="LOCAL-00099" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713448837428</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1713448837428</updated>
     </task>
     <task id="LOCAL-00100" summary="roboshop terraform">
       <option name="closed" value="true" />
@@ -452,7 +399,63 @@
       <option name="project" value="LOCAL" />
       <updated>1713512125870</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713582705267</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1713582705267</updated>
+    </task>
+    <task id="LOCAL-00143" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713583985974</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1713583985974</updated>
+    </task>
+    <task id="LOCAL-00144" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713585595428</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1713585595428</updated>
+    </task>
+    <task id="LOCAL-00145" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713585732643</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1713585732643</updated>
+    </task>
+    <task id="LOCAL-00146" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713586203646</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1713586203646</updated>
+    </task>
+    <task id="LOCAL-00147" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713588341205</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1713588341205</updated>
+    </task>
+    <task id="LOCAL-00148" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713588809151</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1713588809151</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
