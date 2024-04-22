@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform" />
+    <list default="true" id="a5b57eb5-8af4-4c74-b715-b03a7f2f87d9" name="Changes" comment="roboshop terraform">
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/cart/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/catalogue/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/common/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/payment/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/shipping/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-ansib/roles/user/meta/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-ansib/roles/frontend/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/env-dev/main.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-app/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-app/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-module-app/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/tf-module-app/vars.tf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/d74/tf-module-app&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/d74/roboshop-ansib/roles/user"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\d74\tf-module-app" />
@@ -57,14 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713014612516</updated>
-    </task>
-    <task id="LOCAL-00142" summary="roboshop terraform">
-      <option name="closed" value="true" />
-      <created>1713582705267</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1713582705267</updated>
     </task>
     <task id="LOCAL-00143" summary="roboshop terraform">
       <option name="closed" value="true" />
@@ -450,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713656169439</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="roboshop terraform">
+      <option name="closed" value="true" />
+      <created>1713756817870</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1713756817870</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
